@@ -1,0 +1,11 @@
+{
+  "name": "Pippo the Flying Robot",
+  "version": "1.0.0",
+  "description": "This little robot will here to see you! Use him whatever you want!",
+  "main": "bot.js",
+  "author": "Supernova-Skymancer",
+  "dependencies": {
+    "discord.io": "^2.5.3",
+    "winston": "^3.2.1"
+  }
+}
